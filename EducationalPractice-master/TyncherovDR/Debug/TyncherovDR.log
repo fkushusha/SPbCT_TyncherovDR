@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\MyForm.h(347,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\MyForm.h(370,21): warning C4101: e: неиспользованная локальная переменная
+  Library.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\Debug\TyncherovDR.lib и объект C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\Debug\TyncherovDR.exp
+  TyncherovDR.vcxproj -> C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\Debug\TyncherovDR.exe

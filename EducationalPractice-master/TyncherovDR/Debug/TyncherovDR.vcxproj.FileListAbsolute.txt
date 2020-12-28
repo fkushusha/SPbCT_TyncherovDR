@@ -1,0 +1,5 @@
+C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\Debug\TyncherovDR.vcxprojAssemblyReference.cache
+C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\Debug\TyncherovDR.exe
+C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\Debug\TyncherovDR.pdb
+C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\Debug\TyncherovDR.MyForm.resources
+C:\Users\anya7\Documents\GitHub\EducationalPractice\TyncherovDR\Debug\TyncherovDR.vcxproj.GenerateResource.cache
